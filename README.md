@@ -85,7 +85,7 @@ The interface is organized into 3 main distinct areas:
 
 This structure ensures that users can navigate efficiently, anticipate where functions are located, and access any feature.
 
-![[screen.png]]
+![Screenshot](images/screen.png)
 
 #### Conceptual Content Distribution Methodology
 
